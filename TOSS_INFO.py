@@ -22,8 +22,10 @@ try:
     print(account_info)
     
     # 특정 요소를 찾고 싶다면 개발자 도구(F12)로 Selector를 확인해야 합니다.
-
+test = "test"
 except Exception as e:
     print(f"에러 발생: {e}")
 
 # driver.quit()을 하지 않으면 브라우저가 닫히지 않고 유지됩니다.
+
+# 이건 온라가나.
